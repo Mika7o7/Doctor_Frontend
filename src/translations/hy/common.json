@@ -1,0 +1,55 @@
+{
+  "addToCart": "ավելացնել զամբյուղ",
+  "addToCartShort": "ավելացնել",
+  "view": "ավելին",
+  "viewAll": "տեսնել ավելին",
+  "code": "Կոդ",
+  "codeCopied": "Պատճենված է",
+  "filter": {
+    "categories": "կատեգորիաներ",
+    "type": "տիպ",
+    "price": "գին",
+    "men": "տղամարդու",
+    "women": "կանացի",
+    "button": "Ֆիլտրել"
+  },
+  "shopNow": "գնել հիմա",
+  "close": "փակել",
+  "emptyCart": "դատարկ զամբյուղ",
+  "product": {
+    "size": "չափ",
+    "color": "գույն",
+    "type": "տեսականի",
+    "price": "գին",
+    "count": "քանակ"
+  },
+  "home": "Գլխավոր",
+  "amount": "Արժեքը",
+  "weAlsoOffer": "Առաջարկում ենք նաև",
+
+  "header": {
+    "shoppingCart": "զամբյուղ",
+    "categories": "կատեգորիաներ",
+    "search": {
+      "placeholder": "Որոնել"
+    }
+  },
+  "footer": {
+    "allRights": "© 2022 Evas . Բոլոր իրավունքները պաշտպանված են։"
+  },
+  "shopPage": {
+    "products": "ապրանք"
+  },
+  "checkout": {
+    "title": "Լրացրեք տվյալները",
+    "details": "Պատվերի մանրամասներ",
+    "all": "Ընդամենը",
+    "name": "Անուն",
+    "lastName": "Ազգանուն",
+    "phone": "Հեռախոսահամար",
+    "address": "Հասցե",
+    "accept": "Հաստատել"
+  },
+  "special_offer": "Հատուկ առաջարկ",
+  "language": "Լեզու"
+}

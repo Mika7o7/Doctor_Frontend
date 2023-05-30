@@ -1,0 +1,55 @@
+{
+  "addToCart": "добавить в корзину",
+  "addToCartShort": "добавить",
+  "view": "больше",
+  "viewAll": "увидеть больше",
+  "code": "Код",
+  "codeCopied": "Скопированно",
+  "filter": {
+    "categories": "категории",
+    "type": "тип",
+    "price": "цена",
+    "men": "мужской",
+    "women": "женский",
+    "button": "Фильтр"
+  },
+  "shopNow": "купить сейчас",
+  "close": "закрыть",
+  "emptyCart": "пустая корзина",
+  "product": {
+    "size": "размер",
+    "color": "цвет",
+    "type": "ассортимент",
+    "price": "цена",
+    "count": "количество"
+  },
+  "home": "Главный",
+  "amount": "Стоимость",
+  "weAlsoOffer": "Предлагаем",
+
+  "header": {
+    "shoppingCart": "корзина",
+    "categories": "категории",
+    "search": {
+      "placeholder": "Поиск"
+    }
+  },
+  "footer": {
+    "allRights": "© 2022 Evas . Все права защищены."
+  },
+  "shopPage": {
+    "products": "товар"
+  },
+  "checkout": {
+    "title": "Заполните детали",
+    "details": "Информация для заказа",
+    "all": "Общая стоимость",
+    "name": "Имя",
+    "lastName": "Фамилия",
+    "phone": "Номер телефона",
+    "address": "Адрес",
+    "accept": "Подтвердить"
+  },
+  "special_offer": "Специальное предложение",
+  "language": "Язык"
+}

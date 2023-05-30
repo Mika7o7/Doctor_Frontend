@@ -1,0 +1,55 @@
+{
+  "addToCart": "add to cart",
+  "addToCartShort": "add",
+  "view": "view",
+  "viewAll": "view all",
+  "code": "Code",
+  "codeCopied": "Copyed",
+  "filter": {
+    "categories": "categories",
+    "type": "type",
+    "price": "price",
+    "men": "men",
+    "women": "women",
+    "button": "Filter"
+  },
+  "shopNow": "shop now",
+  "close": "close",
+  "emptyCart": "Empty Cart",
+  "product": {
+    "size": "size",
+    "color": "color",
+    "type": "type",
+    "price": "price",
+    "count": "count"
+  },
+  "home": "Home",
+  "amount": "Amount",
+  "weAlsoOffer": "We also offer",
+
+  "header": {
+    "shoppingCart": "shopping cart",
+    "categories": "categories",
+    "search": {
+      "placeholder": "Search"
+    }
+  },
+  "footer": {
+    "allRights": "© 2022 Evas . All rights reserved"
+  },
+  "shopPage": {
+    "products": "product"
+  },
+  "checkout": {
+    "title": "Fill in the details",
+    "details": "Order details",
+    "all": "Total cost",
+    "name": "Name",
+    "lastName": "Last name",
+    "phone": "Phone number",
+    "address": "Address",
+    "accept": "Accept"
+  },
+  "special_offer": "Special offer",
+  "language": "Language"
+}
