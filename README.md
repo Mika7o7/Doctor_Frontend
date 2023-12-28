@@ -41,7 +41,9 @@ Make sure you have the following installed on your machine:
 After completing the installation steps, you can run the project locally. Use the following commands:
 Development Mode
 
-    yarn run dev
+    yarn run
+
+and chuse start
 
 This will start a development server, and you can access the lending page at http://localhost:3000.
 Production Build
